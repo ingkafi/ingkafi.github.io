@@ -482,12 +482,12 @@ a {
   .resume-item .date {
     display: block;
     margin-bottom: 10px;
-    font-size: 12px;
+    font-size: 18px;
     font-weight: 700;
     color: #fff; }
   .resume-item .school {
     display: block;
-    font-size: 16px; }
+    font-size: 20px; }
   .resume-item h3 {
     color: #bac964;
     font-size: 20px; }
